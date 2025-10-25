@@ -50,7 +50,8 @@ The dashboard includes:
 - Age Group and Gender Distribution  
 - Order Status Overview  
 - Channel-wise Performance  
-- Category-wise Sales Contribution  
+- Category-wise Sales Contribution
+- Kpi's
 
 📸 **Dashboard Preview:**
 <img width="1842" height="748" alt="Dashboard image" src="https://github.com/user-attachments/assets/5bbc4304-e370-4d48-bdb1-959bb1b92839" />
@@ -80,7 +81,8 @@ To improve sales in 2023, Vrinda Store should:
   - Pivot Charts  
   - Data Cleaning & Formatting  
   - Dashboard Design  
-  - Slicers for Interactivity  
+  - Slicers for Interactivity
+  - Kpi's
 
 ---
 
