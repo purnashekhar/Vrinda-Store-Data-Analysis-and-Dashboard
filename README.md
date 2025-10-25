@@ -102,7 +102,7 @@ To improve sales in 2023, Vrinda Store should:
 ## 👨‍💻 Author
 **PURNA SHEKHAR**  
 Data Analyst | Excel | Power BI | SQL | Python  
-📧 your.email@example.com  
+📧 purnashekhar2352@gmail.com  
 🔗 www.linkedin.com/in/bandi-purnashekhar  
 🔗 [GitHub Profile](https://github.com/purnashekhar)
 
