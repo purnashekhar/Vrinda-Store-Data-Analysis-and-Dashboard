@@ -1,4 +1,3 @@
-<img width="1862" height="805" alt="image" src="https://github.com/user-attachments/assets/d00698d1-3b86-4b29-8d17-35c04dfc65ca" /># 🛍️ Vrinda Store Data Analysis Dashboard (Excel Project)
 
 ## 📊 Project Objective
 The **Vrinda Store** aims to create an **Annual Sales Report for 2022** to understand customer purchasing behavior and improve sales strategies for 2023.  
