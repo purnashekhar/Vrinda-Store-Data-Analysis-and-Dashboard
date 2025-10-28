@@ -1,4 +1,4 @@
-<img width="1848" height="752" alt="Screenshot 2025-10-28 110355" src="https://github.com/user-attachments/assets/32dbeb2f-2433-48ed-9965-2cf4a00abe6e" />
+<!-- <img width="1848" height="752" alt="Screenshot 2025-10-28 110355" src="https://github.com/user-attachments/assets/32dbeb2f-2433-48ed-9965-2cf4a00abe6e" />s -->
 ## 📊 Project Objective
 The **Vrinda Store** aims to create an **Annual Sales Report for 2022** to understand customer purchasing behavior and improve sales strategies for 2023.  
 This interactive Excel dashboard helps the store owner analyze sales performance, customer demographics, and top sales channels for better decision-making.
